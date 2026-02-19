@@ -54,13 +54,6 @@ My focus is on intelligent agents, distributed systems, and high-performance web
 
 ---
 
-## 📊 Developer Analytics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thishanthgithub&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thishanthgithub&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=thishanthgithub&theme=github-dark&hide_border=true" />
 </p>

@@ -52,14 +52,6 @@ My focus is on intelligent agents, distributed systems, and high-performance web
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thishanthgithub&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## ⚡ Vision
 
 > Building intelligent, autonomous systems that operate in real-time and scale globally.
